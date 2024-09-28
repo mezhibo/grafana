@@ -1,3 +1,4 @@
+![alt text](https://github.com/mezhibo/osnovnye-sredstva-zashity-ot-setevykh-atakk/blob/70376c341fad4887f26e49125a4bca5b00030de4/IMG/1.png)
 **Задание 1**
 
 1. Используя директорию help внутри этого домашнего задания, запустите связку prometheus-grafana.
